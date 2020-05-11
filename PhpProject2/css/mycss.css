@@ -1,0 +1,176 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 20, 2018, 1:57:25 PM
+    Author     : الدولية
+*/
+
+
+#b1{
+    width: 100%;
+    height: 50px;
+  
+    background: #126874;
+    margin-bottom: 40px;
+
+}
+body{
+    background:#D5E5E7;
+}
+
+.buttons,#home{
+    width:130px;
+    height:40px ;
+    float: right;
+    margin-top:5px; 
+    margin-right:20px; 
+    color: #fff;
+    background: #126874;;
+    font-style: initial;
+    font-size: large;
+    border: 1px;
+
+
+
+}
+.img1,.img2,.img3,.img4{
+    max-width: 100%;
+    width: 100%;
+    height: 550px;
+    border-radius: 90%;
+    
+   
+}
+.cycle-slideshow{
+    width: 90%;
+  display: block;
+   margin: auto;
+    position: relative;
+   
+}
+.cycle-prev,.cycle-next{
+    font-size: 80px;
+    color: white;
+    display: block;
+    position: absolute;
+    top: 30%;
+    z-index: 999;
+    cursor: pointer;
+    
+}
+.cycle-prev{left: 5%;}
+.cycle-next{right: 5%;}
+.cycle-pager{
+    width: 66%;
+    position: absolute;
+    text-align: center;
+    z-index: 999;
+    bottom: 10px;    
+}
+.cycle-pager span{
+    cursor: pointer;
+    width: 15px;
+    height: 15px;
+    border: 1px solid white;
+    border-radius: 50%;
+    display: inline-block;
+    margin: 0 5px;
+    text-indent: 100%;
+    white-space: nowrap;
+    
+    
+}
+.cycle-pager .cycle-pager-active{
+    background-color: white;
+}
+
+.field{
+
+    
+    border-top: 1px solid #fff ;
+    border-bottom: 0px;
+    border-left: none;
+    border-right: none;
+   margin-top: 50px;
+  
+   
+    
+        
+}
+legend{
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 30px;
+    
+}
+.img_h{
+    
+    width: 900px;
+   
+    float: left;
+    color: #666666;
+    margin: auto;
+     border:3px solid #fff;
+     font-size: 30px;
+     background: #fff;
+         margin-left: 100px;
+         box-shadow: 10px 10px 30px #fff;
+border-bottom: 1px solid #DDD;
+margin-bottom: 30px;
+}
+
+.someinfo{
+    float: right;
+    margin-right: 20px;
+    height: 400px;
+    
+}
+.img_h h3{
+    
+   text-align: center;
+ margin-bottom: 20px;
+   color: black;
+   border-bottom: 1px solid #DDD;
+   
+    
+   
+}
+
+p{
+    text-align: center;
+    border-top: 1px solid #DDD;
+}
+.span1{
+    color: green;
+    font-size: 30px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.info{
+   
+   width:150px;
+    height:40px ;
+    font-style: initial;
+    font-size: large;
+    margin-left: 30%;
+    background:#6699ff;
+    color: #fff;
+    
+    
+    
+}
+
+
+
+
+.img-tur{
+    width: 600px;
+    height: 400px;
+   
+}
+
+

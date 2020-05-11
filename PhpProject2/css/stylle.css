@@ -1,0 +1,287 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.header{
+  background-color: #11626E;
+  height: 65px;
+
+}
+.ull
+{
+  background-color: transparent;
+  text-align: left;
+    list-style: none;
+    padding: 0;
+    margin-left: 805px;
+    margin-top: -109px
+
+}
+.ull .lii
+{
+  background-color: transparent;
+  display: inline-block;
+  margin-left: 70px;
+}
+.ull .aa
+{
+  background-color: transparent;
+  text-decoration: none;
+  color: white;
+}
+body{
+  background: #d5e5e7
+}
+
+.container{
+  max-width: 700px;
+    height: 408px;
+    float: left;
+    margin: 70px auto;
+    margin-left: 92px;
+    margin-top: -25px;
+    padding: 40px;
+}
+
+.ppp{
+  text-align: center;
+  letter-spacing: 1px;  
+  font-size: 40px;
+  margin-bottom: 20px;
+  color: #486255;
+  margin-bottom: 20px;
+}
+.p_info{
+  margin-top:160px ;
+  text-align: center;
+  letter-spacing: 1px;  
+  font-size: 50px;
+   color: #486255;
+   margin-right: 30px;
+   font-style:icall;
+}
+.input,
+.msg .area{
+  width: 100%;
+  padding: 17px;
+    box-sizing: border-box;
+    margin-bottom: 19px;
+    border: 2px solid #e9eaea;
+    font-size: 11px;
+    border-radius: 10px;
+    outline: none;
+  transform: all 0.5s ease;
+}
+.logo
+{
+  background-color: transparent;
+  width: 190px;
+    height: 180px;
+    margin-left: 0;
+    margin-top: -51px;
+}
+
+
+
+
+.con .input{
+  width: 100%;
+  
+  margin-right: 4%;
+}
+
+.con .input:last-child{
+  margin-right: 0;
+}
+
+.msg .area{
+  height: 120px;
+}
+
+.btn{
+  width: 250px;
+  background: #126874;
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+  border-radius: 5px;
+  margin: 0 auto;
+  color:#fff;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.input:focus,
+.msg .area:focus{
+  border: 2px solid #486255;
+}
+
+::-webkit-input-placeholder{
+  font-family: 'roboto';
+}
+.contact_info{
+  
+float:right;
+margin-top:15px; 
+margin-right: 213px;
+
+
+
+  
+}
+.contact_info ul{
+ 
+  
+  font-size: 15px;
+ 
+
+}
+.address{
+list-style-image: url(../img/address.PNG);
+}
+.phone{
+ list-style-image: url(../img/telephon.PNG);
+}
+.wepsite{
+ list-style-image: url(../img/mess.PNG);
+}
+.fax{
+ list-style-image: url(../img/templt.PNG);
+}
+.contact_info ul li{
+margin-top: 40px;
+}
+
+fieldset{
+ border: 10px solid #fff;
+    margin: auto;
+    width: 1089px;
+    height: 500px;
+    margin-top: 37px;
+    box-shadow: 10px 10px 30px cadetblue;
+    background: #fff;
+
+}
+label{
+  color: #fff;
+    font-size: 35px;
+    margin-left: 182px;
+}
+
+
+.up_de{
+    width: 150px;
+  background: #126874;
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+  border-radius: 5px;
+  margin: 0 auto;
+  color:#fff;
+  text-transform: uppercase;
+  cursor: pointer; 
+  margin-top:70px;
+  margin-right: 20px;
+  margin-left: 30px;
+ 
+}
+
+.delet_form h2{
+    margin-bottom: 10px;
+}
+.delet_form{
+    margin-top: 50px;
+    
+}
+
+.overlay {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.7);
+  transition: opacity 500ms;
+  visibility: hidden;
+  opacity: 0;
+}
+.overlay:target {
+  visibility: visible;
+  opacity: 1;
+}
+
+.popup {
+  margin: 100px auto;
+  padding: 20px;
+  background: #fff;
+  border-radius: 5px;
+     width: 40%;
+    height: 50%;
+    margin-left: 376px;
+    
+  position: relative;
+  transition: all 5s ease-in-out;
+}
+.popup .close {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  transition: all 200ms;
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #333;
+}
+.popup .close:hover {
+  color: #06D85F;
+}
+
+
+@media screen and (max-width: 700px){
+  .box{
+    width: 70%;
+  }
+  .popup{
+    width: 70%;
+  }
+}
+#lab_rrn{
+        font-size: 28px;
+    display: inline;
+   
+}
+#div_rrn{
+    margin-top: 40px;
+    display: inline;
+}
+#but_delete{
+    width: 190px;
+  background: #126874;
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+  border-radius: 5px;
+ 
+  color:#fff;
+  text-transform: uppercase;
+  cursor: pointer; 
+  margin-top: 100px;
+  margin-left: 170px;
+ 
+ 
+    
+}
+#inp_rrn{
+    margin-left: 100px;
+    width: 300px;
+    height: 30px;
+    display: block;
+    margin-top: 80px;
+   
+    
+}
+#div_inp .input{
+    width: 340px;
+    margin-left: 90px;
+    margin-top: 60px;
+}

@@ -1,0 +1,179 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 29, 2018, 6:15:34 AM
+    Author     : الدولية
+*/
+
+#lll{ 
+             height: 60px;
+             background-color:#126874;} 
+h1{
+            
+            text-align: center;
+           
+           
+            color: white;
+        }
+       
+        .label1{
+            font-size: larger;
+            font-weight: 900;
+            font-style: italic;
+            margin-left: 100px;
+            margin-top: 40px;
+            display: inline;
+        }
+ .label2{
+            font-size: larger;
+            font-weight: 900;
+            font-style: italic;
+            margin-left: 200px;
+            margin-top: 40px;
+            display: inline;
+        }
+          
+ #d1{
+           width: 200px;
+           height: 35px;
+           text-align: center;
+            margin-left: 35px;
+        }
+  #d2{
+           width: 200px;
+           height: 35px;
+           text-align: center;
+            margin-left: 30px;
+        }
+        
+ #d3{
+           width: 200px;
+           height: 35px;
+           text-align: center;
+            margin-left: 40px;
+        }
+ #d4{
+           width: 200px;
+           height: 35px;
+           text-align: center;
+            margin-left: 74px;
+        }
+        
+ #d5{
+           width: 200px;
+           height: 35px;
+           text-align: center;
+            margin-left: 40px;
+        }
+#d6{       margin-top: 10px;
+           width: 200px;
+           height: 35px;
+           text-align: center;
+            margin-left: 60px;
+        }
+#d7{       margin-top: 10px;
+           width: 200px;
+           height: 35px;
+           text-align: center;
+            margin-left: 20px;
+        }
+#d8{
+           margin-top: 10px;
+           width: 60px;
+           height: 35px;
+           text-align: center;
+            margin-left: 80px;
+        }
+#d9{
+           width: 60px;
+           height: 35px;
+           text-align: center;
+            margin-left: 80px;
+        }
+         #s1{       margin-top: 10px;
+           text-align: center;
+           margin-left: 80px;
+            
+        }
+.r1{  
+           width: 15px;
+           height: 15px;
+           margin-left: 800px;
+        }
+.l{
+        margin-top: -19px;
+    margin-left: 831px;
+         
+}
+#hidee{
+           display: none;
+           margin-left: 880px;
+}
+.res_input{
+    
+      width: 200px;
+           height: 35px;
+           text-align: center;
+            margin-left: 370px;
+}
+select{
+         width: 200px;
+         height: 35px;
+         text-align: center;
+         padding-left: 10px;
+         
+
+        }
+        
+
+
+#btn1{
+           text-align: center;
+            background-color:#126874; 
+             color: black;
+             padding: 8px 16px;
+             text-decoration: none;
+             cursor: pointer;
+            margin-left: 400px;
+             font-size:  large;
+             }
+ #btn2{
+            text-align: center;
+            background-color:#126874; 
+             color: black;
+             padding: 8px 16px;
+             text-decoration: none;
+             cursor: pointer;
+            margin-left: 80px;
+            margin-bottom: 40px;
+             font-size:  large;
+             
+ }
+         .popup2 {
+  margin: 100px auto;
+  padding: 20px;
+  background: #fff;
+  border-radius: 5px;
+     width: 80%;
+    height: 75%;
+    margin-left: 150px;
+    margin-top: 60px;
+  position: relative;
+  transition: all 5s ease-in-out;
+}
+.popup2 .close {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  transition: all 200ms;
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #333;
+}
+.popup2 .close:hover {
+  color: #06D85F;
+}    

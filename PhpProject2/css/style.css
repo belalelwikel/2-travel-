@@ -1,0 +1,220 @@
+ *
+ {
+  margin: 0;
+  
+ }
+
+ body {   /* background-image: url("egy.jpg");*/
+            background-color: #d5e5e7;
+            background-repeat: no-repeat ;
+            background-size: cover;
+            }
+
+
+#lll{ 
+             height: 60px;
+             background-color:#126874;} 
+ h1{
+            
+            text-align: center;
+           
+           
+            color: white;
+        }
+
+        
+ .label1{
+            font-size: larger;
+            font-weight: 900;
+            font-style: italic;
+            margin-left: 100px;
+            margin-top: 40px;
+        }
+ .label2{
+            font-size: larger;
+            font-weight: 900;
+            font-style: italic;
+            margin-left: 200px;
+            margin-top: 40px;
+        }
+  
+ #d1{
+           width: 200px;
+           height: 35px;
+           text-align: center;
+            margin-left: 35px;
+        }
+  #d2{
+           width: 200px;
+           height: 35px;
+           text-align: center;
+            margin-left: 30px;
+        }
+        
+ #d3{
+           width: 200px;
+           height: 35px;
+           text-align: center;
+            margin-left: 40px;
+        }
+ #d4{
+           width: 200px;
+           height: 35px;
+           text-align: center;
+            margin-left: 74px;
+        }
+        
+ #d5{
+           width: 200px;
+           height: 35px;
+           text-align: center;
+            margin-left: 40px;
+        }
+#d6{       margin-top: 10px;
+           width: 200px;
+           height: 35px;
+           text-align: center;
+            margin-left: 60px;
+        }
+#d7{       margin-top: 10px;
+           width: 200px;
+           height: 35px;
+           text-align: center;
+            margin-left: 20px;
+        }
+#d8{
+           margin-top: 10px;
+           width: 60px;
+           height: 35px;
+           text-align: center;
+            margin-left: 80px;
+        }
+#d9{
+           width: 60px;
+           height: 35px;
+           text-align: center;
+            margin-left: 80px;
+        }
+        
+ #s1{       margin-top: 10px;
+           text-align: center;
+           margin-left: 80px;
+            
+        }
+.r1{  
+           width: 15px;
+           height: 15px;
+           margin-left: 800px;
+        }
+.l{
+           margin-top: 10px;
+}
+#hidee{
+           display: none;
+           margin-left: 880px;
+}
+    
+input{
+           width: 200px;
+           height: 35px;
+           text-align: center;
+            margin-left: 370px;
+           
+        }
+select{
+         width: 200px;
+         height: 35px;
+         text-align: center;
+         padding-left: 10px;
+         
+
+        }
+        
+#shwhid{
+            margin-top: 40px;
+           padding-top: 40px;
+           border: 4px solid #fff;
+         -webkit-box-decoration-break: clone;
+          -o-box-decoration-break: clone;
+           box-decoration-break: clone;
+          box-shadow: 10px 10px 30px  grey;
+          box-sizing:  content-box;
+           width: 1000px;
+           margin-left: 130px;
+           margin-bottom: 30px;
+           background: #fff;
+           
+           }
+
+#btn1{
+           text-align: center;
+            background-color:#126874; 
+             color: black;
+             padding: 8px 16px;
+             text-decoration: none;
+             cursor: pointer;
+            margin-left: 400px;
+             font-size:  large;
+             }
+ #btn2{
+            text-align: center;
+            background-color:#126874; 
+             color: black;
+             padding: 8px 16px;
+             text-decoration: none;
+             cursor: pointer;
+            margin-left: 80px;
+            margin-bottom: 40px;
+             font-size:  large;
+             
+            
+             }
+#footer{
+            text-align: right;
+            padding-right: 80px;
+            font-size: 20px;
+            font-weight: 900;
+            font-style: italic;
+            background-color: #126874;
+            height: 60px;
+           
+        }
+        ul
+{
+  background-color: transparent;
+  text-align: left;
+    list-style: none;
+    padding: 0;
+    margin-left: 805px;
+    margin-top: -109px
+
+}
+.logo
+{
+  background-color: transparent;
+  width: 190px;
+    height: 180px;
+    margin-left: 0;
+    margin-top: -51px;
+}
+ul li
+{
+  background-color: transparent;
+  display: inline-block;
+  margin-left: 70px;
+}
+ul a
+{
+  background-color: transparent;
+  text-decoration: none;
+  color: white;
+}
+header
+{
+  background-color: #11626E;
+  height: 65px;
+
+
+}
+            
+     
